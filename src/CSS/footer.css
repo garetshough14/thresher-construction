@@ -1,0 +1,14 @@
+.footer-container{
+    width: 100%;
+    background-color: rgb(247, 241, 241);
+    height: 250px;
+    margin-top: 60px;
+}
+.watermark{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid black;
+    background-color: rgb(247, 241, 241);
+    padding: 10px;
+}

@@ -1,5 +1,6 @@
 import React from "react";
 import NavBar from "./NavBar";
+import Footer from './Footer'
 import AcUnits from "../Images/work-images/ac-units-above.jpg";
 import StructuralSteel from "../Images/work-images/work-car.png";
 import GeneralContracting from "../Images/work-images/finished-house.jpeg";
@@ -123,6 +124,7 @@ const HomePage = () => {
           />
         </div>
         </div>
+        <Footer/>
     </div>
   );
 };

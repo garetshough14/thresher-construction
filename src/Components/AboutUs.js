@@ -1,10 +1,10 @@
 import React from "react";
+import NavBar from "./NavBar";
 
 const AboutUs = () => {
   return (
     <div>
-      <h1>About Us</h1>
-      <p>Welcome to our company!</p>
+      <NavBar />
     </div>
   );
 };
